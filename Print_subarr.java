@@ -9,8 +9,7 @@ public class Print_subarr {
                 for(int k=start; k<=end;k++){
                     System.out.print(number[k]+" ");
                 }
-                ts++;
-                    
+                ts++;   
                 System.out.println();
             }
 

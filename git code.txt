@@ -1,0 +1,12 @@
+git add .
+git commit -m "Added bubble sort"
+git push
+
+
+git status
+     ↓
+git add .
+     ↓
+git commit -m "message"
+     ↓
+git push
