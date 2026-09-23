@@ -12,7 +12,7 @@ public class char_pattern {
             System.out.println();
             //ch++;
          } 
-         ch++;
+         
 
 
 
