@@ -14,11 +14,7 @@ public class pattern_1 {
             }
             
             System.out.println();
-
-
-        }
-
-        
+        }  
 
     }
 
