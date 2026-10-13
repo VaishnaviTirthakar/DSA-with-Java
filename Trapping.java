@@ -23,7 +23,6 @@ public class Trapping {
              //trapped water = waterLevel- height[i]
             trappedWater += waterLevel - height[i];
         }
-
         return trappedWater;  
     }
 

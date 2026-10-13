@@ -22,6 +22,7 @@ public class hollow_rhombus {
     }
 
     public static void main(String args[]){
+        
         hollow(5);
 
     }

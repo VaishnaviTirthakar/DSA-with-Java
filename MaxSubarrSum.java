@@ -14,7 +14,7 @@ public class MaxSubarrSum {
                     currsum+=num[k];
                 }
                 System.out.println(currsum);
-                if(maxsum<currsum){
+                if(maxsum<currsum){            
                     maxsum=currsum;
                 }
             }
